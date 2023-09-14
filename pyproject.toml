@@ -65,6 +65,7 @@ files = [
     "randovania/generator/graph.py",
     "randovania/generator/old_generator_reach.py",
     "randovania/generator/reach_lib.py",
+    "randovania/generator/filler/",
     "randovania/lib/",
     "test/bitpacking/",
     "test/game_description/",
